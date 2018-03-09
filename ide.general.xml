@@ -13,7 +13,7 @@
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="search.everywhere.actions" value="false" />
     <entry key="tabs.alphabetical" value="true" />
-    <entry key="ide.tooltip.initialDelay" value="999" />
+    <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="dumb.aware.run.configurations" value="true" />
   </component>
 </application>
